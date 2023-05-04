@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"iphone14",
+        "price":6800,
+        "image": "../../assets/image1.jpg"
+    },
+    {
+        "id":2,
+        "name":"iphone14",
+        "price":8299,
+        "image": "../../assets/image2.jpg"
+    },
+    {
+        "id":3,
+        "name":"iphone14",
+        "price":15000,
+        "image": "../../assets/image3.jpg"
+    },
+    {
+        "id":4,
+        "name":"iphone14",
+        "price":8000,
+        "image": "../../assets/image4.jpg"
+    },
+    {
+        "id":5,
+        "name":"iphone14",
+        "price":5700,
+        "image": "../../assets/image5.jpg"
+    },
+    {
+        "id":6,
+        "name":"iphone14",
+        "price":6000,
+        "image": "../../assets/image6.jpg"
+    },
+    {
+        "id":7,
+        "name":"iphone14",
+        "price":11000,
+        "image": "../../assets/image7.jpg"
+    },
+    {
+        "id":8,
+        "name":"iphone14",
+        "price":30000,
+        "image": "../../assets/image8.jpg"
+    },
+    {
+        "id":9,
+        "name":"iphone14",
+        "price":7850,
+        "image": "../../assets/image9.jpg"
+    }
+    ]
